@@ -1,0 +1,42 @@
+# =============================================================================
+# GAM Assurance - Seismic Risk & Portfolio Optimisation
+# Python dependencies
+#
+# Verified working combination (Windows 11, Python 3.13.14):
+#     pip install -r requirements.txt
+# =============================================================================
+
+# --- Core data processing ---------------------------------------------------
+pandas==3.0.2
+numpy==2.4.4
+
+# --- Machine learning (required by the GAM hackathon brief) ----------------
+# CatBoost handles the high-cardinality categorical features (commune,
+# wilaya, seismic zone) natively via ordered target statistics, which is
+# exactly why the organisers specified it over Random Forest.
+catboost==1.2.10
+
+# --- Excel I/O engine used by pandas --------------------------------------
+openpyxl==3.1.5
+
+# --- Boundary attribute table for the QGIS join ---------------------------
+# Pure-Python shapefile reader (no GDAL needed). The QGIS project joins the
+# export on the admin-2 layer's adm2_name, so the pipeline has to read that
+# exact spelling out of dza_admin2.shp instead of guessing it.
+pyshp==3.0.3
+
+# =============================================================================
+# NOT required to run the pipeline
+# =============================================================================
+# QGIS (>= 3.16)  - external desktop application, used for the cartography
+#                   (opens QGis_files/Cartographie_du_risque.qgz).
+#                   Not pip-installable; download from qgis.org
+#
+# These were used during exploratory analysis and are listed as optional
+# extras for anyone extending the project (e.g. adding a Monte Carlo
+# simulation or an interactive web map):
+#   matplotlib      - loss-distribution and concentration plots
+#   folium          - interactive HTML map (the brief suggested Folium/Plotly)
+#   plotly          - alternative interactive charting
+#   streamlit       - optional dashboard (deliverable "Final" of the brief)
+#   scikit-learn    - train/test split + confusion matrix for evaluation

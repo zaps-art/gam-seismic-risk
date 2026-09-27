@@ -1,0 +1,1542 @@
+commune_name,commune_code,wilaya_name,wilaya_code,seismic_zone,source
+Adrar,1,Adrar,1,0,0
+Akabili,2,Adrar,1,0,0
+Aougrout,3,Adrar,1,0,0
+Aoulef,4,Adrar,1,0,0
+Bordj Badji Mokhtar,5,Adrar,1,0,0
+Bouda,6,Adrar,1,0,0
+Deldoul,7,Adrar,1,0,1
+Fenoughil,8,Adrar,1,0,0
+Gharouine,9,Adrar,1,0,0
+Inzegmir,0,Adrar,1,0,0
+Ksar Kaddour,1,Adrar,1,0,0
+Metarfa,2,Adrar,1,0,0
+Ouled Ahmed Timi,3,Adrar,1,0,0
+Ouled Aissa,4,Adrar,1,0,1
+Ouled Said,5,Adrar,1,0,0
+Reggane,6,Adrar,1,0,0
+Sali,7,Adrar,1,0,0
+Sebaa,8,Adrar,1,0,0
+Talmine,9,Adrar,1,0,0
+Tamentit,0,Adrar,1,0,0
+Tamest,1,Adrar,1,0,0
+Timiaouine,2,Adrar,1,0,0
+Timimoun,3,Adrar,1,0,0
+Timokten,4,Adrar,1,0,0
+Tinerkouk,5,Adrar,1,0,0
+Tit,6,Adrar,1,0,0
+Tsabit,7,Adrar,1,0,0
+Zaouiet Kounta,8,Adrar,1,0,0
+Ain Benian,1,Ain-Defla,2,IIb,1
+Ain Bouyahia,2,Ain-Defla,2,III,0
+Ain Lechiakh,3,Ain-Defla,2,IIa,0
+Ain Soltane,4,Ain-Defla,2,IIa,1
+Ain Torki,5,Ain-Defla,2,IIb,0
+Ain-Defla,6,Ain-Defla,2,IIa,0
+Arib,7,Ain-Defla,2,IIb,0
+Barbouche,8,Ain-Defla,2,IIa,0
+Bathia,9,Ain-Defla,2,IIa,0
+Belaas,0,Ain-Defla,2,IIa,0
+Ben Allal,1,Ain-Defla,2,IIa,0
+Bir Ouled Khelifa,2,Ain-Defla,2,IIa,0
+Bordj Emir Khaled,3,Ain-Defla,2,IIa,0
+Boumedfaa,4,Ain-Defla,2,IIa,0
+Bourached,5,Ain-Defla,2,IIa,0
+Djelida,6,Ain-Defla,2,IIa,0
+Djemaa Ouled Cheikh,7,Ain-Defla,2,IIa,0
+Djendel,8,Ain-Defla,2,IIa,0
+El Abbadia,9,Ain-Defla,2,IIa,0
+El Amra,0,Ain-Defla,2,IIb,0
+El Attaf,1,Ain-Defla,2,III,0
+El Hassania,2,Ain-Defla,2,IIa,0
+El Hoceinia,3,Ain-Defla,2,IIa,0
+El Mayene,4,Ain-Defla,2,IIa,0
+Hammam Righa,5,Ain-Defla,2,IIb,0
+Khemis Miliana,6,Ain-Defla,2,IIa,0
+Mekhatria,7,Ain-Defla,2,IIa,0
+Miliana,8,Ain-Defla,2,IIa,0
+Oued Chorfa,9,Ain-Defla,2,IIa,0
+Oued Djemaa,0,Ain-Defla,2,IIa,0
+Rouina,1,Ain-Defla,2,IIb,0
+Sidi Lakhdar,2,Ain-Defla,2,IIa,1
+Tachta Zegarra,3,Ain-Defla,2,IIa,0
+Tarik Ibn Ziad,4,Ain-Defla,2,IIa,0
+Tiberkanine,5,Ain-Defla,2,IIb,0
+Zeddine,6,Ain-Defla,2,IIb,0
+Aghlal,1,Ain-Temouchent,3,IIa,0
+Ain El Arbaa,2,Ain-Temouchent,3,IIa,0
+Ain Kihel,3,Ain-Temouchent,3,IIa,0
+Ain Tolba,4,Ain-Temouchent,3,IIa,0
+Ain-Temouchent,5,Ain-Temouchent,3,IIa,0
+Beni Saf,6,Ain-Temouchent,3,IIa,0
+Bouzedjar,7,Ain-Temouchent,3,IIa,0
+Chaabet El Ham,8,Ain-Temouchent,3,IIa,0
+Chentouf,9,Ain-Temouchent,3,IIa,0
+El Amria,0,Ain-Temouchent,3,IIa,0
+El Emir Abdelkader,1,Ain-Temouchent,3,IIa,0
+El M'Said,3,Ain-Temouchent,3,IIa,0
+El Malah,2,Ain-Temouchent,3,IIa,0
+Hammam Bouhadjar,4,Ain-Temouchent,3,IIa,0
+Hassasna,5,Ain-Temouchent,3,IIa,0
+Hassi El Ghella,6,Ain-Temouchent,3,IIa,0
+Oued Berkeche,7,Ain-Temouchent,3,IIa,0
+Oued Sebbah,8,Ain-Temouchent,3,IIa,0
+Ougbellil,9,Ain-Temouchent,3,IIa,0
+Ouled Boudjemaa,0,Ain-Temouchent,3,IIa,0
+Ouled Kihal,1,Ain-Temouchent,3,IIa,0
+Oulhaca Gherraba,2,Ain-Temouchent,3,IIa,0
+Sidi Ben Adda,3,Ain-Temouchent,3,IIa,0
+Sidi Boumediene,4,Ain-Temouchent,3,IIa,0
+Sidi Safi,5,Ain-Temouchent,3,IIa,0
+Tadmaya,6,Ain-Temouchent,3,IIa,0
+Tamzougha,7,Ain-Temouchent,3,IIa,0
+Terga,8,Ain-Temouchent,3,IIa,0
+Ain Benian,1,Alger,4,III,2
+Ain Taya,2,Alger,4,III,0
+Alger,3,Alger,4,III,0
+Bab El Oued,4,Alger,4,III,0
+Baba Hassen,5,Alger,4,III,0
+Bach Djerrah,6,Alger,4,III,0
+Bains Romains,7,Alger,4,III,0
+Baraki,8,Alger,4,III,0
+Bab Ezzouar,9,Alger,4,III,0
+Ben Aknoun,0,Alger,4,III,0
+Beni Messous,1,Alger,4,III,0
+Bir Khadem,2,Alger,4,III,0
+Bir Mourad Rais,3,Alger,4,III,0
+Birtouta,4,Alger,4,III,0
+Bologhine Ibn Ziri,5,Alger,4,III,0
+Bordj El Bahri,6,Alger,4,III,0
+Bordj El Kiffan,7,Alger,4,III,0
+Bourouba,8,Alger,4,III,0
+Bouzareah,9,Alger,4,III,0
+Casbah,0,Alger,4,III,0
+Cheraga,1,Alger,4,III,1
+Dar El Beida,2,Alger,4,III,0
+Dely Brahim,3,Alger,4,III,0
+Djisr Ksentina,4,Alger,4,III,0
+Douera,5,Alger,4,III,0
+Draria,6,Alger,4,III,0
+El Achour,7,Alger,4,III,0
+El Biar,8,Alger,4,III,0
+El Harrach,9,Alger,4,III,0
+El Madania,0,Alger,4,III,0
+El Magharia,1,Alger,4,III,0
+El Marsa,2,Alger,4,III,1
+El Mouradia,3,Alger,4,III,0
+Hamma Anassers,4,Alger,4,III,0
+Haraoua,5,Alger,4,III,0
+Hussein Dey,6,Alger,4,III,0
+Hydra,7,Alger,4,III,0
+Khraissia,8,Alger,4,III,0
+Kouba,9,Alger,4,III,0
+Les Eucalyptus,0,Alger,4,III,0
+Mahelma,1,Alger,4,III,0
+Mohammadia,2,Alger,4,III,1
+Oued Koriche,3,Alger,4,III,0
+Oued Smar,4,Alger,4,III,0
+Ouled Chebel,5,Alger,4,III,0
+Ouled Fayet,6,Alger,4,III,0
+Rahmania,7,Alger,4,III,0
+Rais Hamidou,8,Alger,4,III,0
+Reghaia,9,Alger,4,III,0
+Rouiba,0,Alger,4,III,0
+Saoula,1,Alger,4,III,0
+Sidi M'Hamed,2,Alger,4,III,1
+Sidi Moussa,3,Alger,4,III,0
+Souidania,4,Alger,4,III,0
+Staoueli,5,Alger,4,III,0
+Tassala El Merdja,6,Alger,4,III,0
+Zeralda,7,Alger,4,III,0
+Ain Berda,1,Annaba,5,IIa,0
+Annaba,2,Annaba,5,IIa,0
+Berrahel,3,Annaba,5,IIa,0
+Chetaibi,4,Annaba,5,IIa,0
+Cheurfa,5,Annaba,5,IIa,0
+El Bouni,6,Annaba,5,IIa,0
+El Hadjar,7,Annaba,5,IIa,0
+Eulma,8,Annaba,5,IIa,0
+Oued El Aneb,9,Annaba,5,IIa,0
+Seraidi,0,Annaba,5,IIa,0
+Sidi Amer,1,Annaba,5,IIa,0
+Treat,2,Annaba,5,IIa,0
+Ain Djasser,1,Batna,6,I,0
+Ain Touta,2,Batna,6,I,0
+Ain Yagout,3,Batna,6,I,0
+Arris,4,Batna,6,I,0
+Barika,5,Batna,6,I,0
+Batna,6,Batna,6,I,0
+Beni Foudhala El Hakania,7,Batna,6,I,0
+Bitam,8,Batna,6,I,0
+Boulehilet,9,Batna,6,I,0
+Boumaguer,0,Batna,6,I,0
+Boumia,1,Batna,6,I,0
+Bouzina,2,Batna,6,I,0
+Chemora,3,Batna,6,I,0
+Chir,4,Batna,6,I,0
+Djerma,5,Batna,6,I,0
+Djezzar,6,Batna,6,I,0
+El Hassi,7,Batna,6,I,1
+El Madher,8,Batna,6,I,0
+Fesdis,9,Batna,6,I,0
+Foum Toub,0,Batna,6,I,0
+Ghassira,1,Batna,6,I,0
+Gosbat,2,Batna,6,I,0
+Guigba,3,Batna,6,I,0
+Hidoussa,4,Batna,6,I,0
+Ichemoul,5,Batna,6,I,0
+Inoughissene,6,Batna,6,I,0
+Kimmel,7,Batna,6,I,0
+Ksar Belezma,8,Batna,6,I,0
+Larbaa,9,Batna,6,I,1
+Lazrou,0,Batna,6,I,0
+Lemcen,1,Batna,6,I,0
+M'Doukal,3,Batna,6,I,0
+Maafa,2,Batna,6,I,0
+Menaa,4,Batna,6,I,1
+Merouana,5,Batna,6,I,0
+Metkaouak,6,Batna,6,I,0
+N'Gaous,7,Batna,6,I,0
+Oued Chaaba,8,Batna,6,I,0
+Oued El Ma,9,Batna,6,I,0
+Oued Taga,0,Batna,6,I,0
+Ouled Ammar,1,Batna,6,I,0
+Ouled Aouf,2,Batna,6,I,0
+Ouled Fadel,3,Batna,6,I,0
+Ouled Sellam,4,Batna,6,I,0
+Ouled Si Slimane,5,Batna,6,I,0
+Ouyoun El Assafir,6,Batna,6,I,0
+Rahbat,7,Batna,6,I,0
+Ras El Aioun,8,Batna,6,I,0
+Sefiane,9,Batna,6,I,0
+Seggana,0,Batna,6,I,0
+Seriana,1,Batna,6,I,0
+T'Kout,0,Batna,6,I,0
+Talkhemt,2,Batna,6,I,0
+Taxlent,3,Batna,6,I,0
+Tazoult,4,Batna,6,I,0
+Theniet El Abed,5,Batna,6,I,0
+Tighanimine,6,Batna,6,I,0
+Tigharghar,7,Batna,6,I,0
+Tilatou,8,Batna,6,I,0
+Timgad,9,Batna,6,I,0
+Zana El Beida,1,Batna,6,I,0
+Abadla,1,Bechar,7,0,0
+Bechar,2,Bechar,7,0,0
+Beni Abbes,3,Bechar,7,0,0
+Beni Ikhlef,4,Bechar,7,0,0
+Beni Ounif,5,Bechar,7,0,0
+Boukais,6,Bechar,7,0,0
+El Ouata,7,Bechar,7,0,0
+Erg Ferradj,8,Bechar,7,0,0
+Igli,9,Bechar,7,0,0
+Kenadsa,0,Bechar,7,0,0
+Kerzaz,1,Bechar,7,0,0
+Ksabi,2,Bechar,7,0,0
+Lahmar,3,Bechar,7,0,0
+Mechraa Houari Boumediene,4,Bechar,7,0,0
+Meridja,5,Bechar,7,0,0
+Mougheul,6,Bechar,7,0,0
+Ouled Khoudir,7,Bechar,7,0,0
+Tabelbala,8,Bechar,7,0,0
+Taghit,9,Bechar,7,0,0
+Tamert,0,Bechar,7,0,0
+Timmoudi,1,Bechar,7,0,0
+Adekar,1,Bejaia,8,IIa,0
+Ait R'Zine,2,Bejaia,8,IIa,0
+Ait Smail,3,Bejaia,8,IIa,0
+Akbou,4,Bejaia,8,IIa,0
+Akfadou,5,Bejaia,8,IIa,0
+Amalou,6,Bejaia,8,IIa,0
+Amizour,7,Bejaia,8,IIa,0
+Aokas,8,Bejaia,8,IIa,0
+Barbacha,9,Bejaia,8,IIa,0
+Bejaia,0,Bejaia,8,IIa,0
+Beni Djellil,1,Bejaia,8,IIa,0
+Beni Ksila,2,Bejaia,8,IIa,0
+Beni Maouche,3,Bejaia,8,IIa,0
+Beni Melikech,4,Bejaia,8,IIa,0
+Boudjellil,5,Bejaia,8,IIa,0
+Bouhamza,6,Bejaia,8,IIa,0
+Boukhelifa,7,Bejaia,8,IIa,0
+Chelata,8,Bejaia,8,IIa,0
+Chemini,9,Bejaia,8,IIa,0
+Darguina,0,Bejaia,8,IIa,0
+Draa El Kaid,1,Bejaia,8,IIa,0
+El Kseur,2,Bejaia,8,IIa,0
+Ferraoun,3,Bejaia,8,IIa,0
+Ifelain Ilmathen,4,Bejaia,8,IIa,0
+Ighil Ali,5,Bejaia,8,IIa,0
+Ighram,6,Bejaia,8,IIa,0
+Kendira,7,Bejaia,8,IIa,0
+Kherrata,8,Bejaia,8,IIa,0
+Leflaye,9,Bejaia,8,IIa,0
+Melbou,0,Bejaia,8,IIa,0
+Oued Ghir,1,Bejaia,8,IIa,0
+Ouzellaguen,2,Bejaia,8,IIa,0
+Seddouk,3,Bejaia,8,IIa,0
+Semaoune,4,Bejaia,8,IIa,0
+Sidi Aich,5,Bejaia,8,IIa,0
+Sidi Ayad,6,Bejaia,8,IIa,0
+Sidi Said,7,Bejaia,8,IIa,0
+Souk El Thenine,8,Bejaia,8,IIa,0
+Souk Oufella,9,Bejaia,8,IIa,0
+Tala Hamza,0,Bejaia,8,IIa,0
+Tamokra,1,Bejaia,8,IIa,0
+Tamridjet,2,Bejaia,8,IIa,0
+Taourirt Ighil,3,Bejaia,8,IIa,0
+Taskriout,4,Bejaia,8,IIa,0
+Tazmalt,5,Bejaia,8,IIa,0
+Tibane,6,Bejaia,8,IIa,0
+Tichi,7,Bejaia,8,IIa,0
+Tifra,8,Bejaia,8,IIa,0
+Timzrit,9,Bejaia,8,IIa,0
+Tinebdar,0,Bejaia,8,IIa,0
+Tizi N'Berber,1,Bejaia,8,IIa,0
+Toudja,2,Bejaia,8,IIa,0
+Ain Naga,1,Biskra,9,I,0
+Ain Zaatout,2,Biskra,9,I,0
+Besbes,3,Biskra,9,I,1
+Biskra,4,Biskra,9,I,0
+Bordj Ben Azzouz,5,Biskra,9,I,0
+Bouchagroun,6,Biskra,9,I,0
+Branis,7,Biskra,9,I,0
+Chetma,8,Biskra,9,I,0
+Djemorah,9,Biskra,9,I,0
+Doucen,0,Biskra,9,I,0
+Ech Chaiba,1,Biskra,9,I,0
+El Feidh,2,Biskra,9,I,0
+El Ghrous,3,Biskra,9,I,0
+El Hadjeb,4,Biskra,9,I,0
+El Haouch,5,Biskra,9,I,0
+El Kantara,6,Biskra,9,I,0
+El Outaya,7,Biskra,9,I,0
+Foughala,8,Biskra,9,I,0
+Khangat Sidi Nadji,9,Biskra,9,I,0
+Lichana,0,Biskra,9,I,0
+Lioua,1,Biskra,9,I,0
+M'Chouneche,2,Biskra,9,I,0
+M'Ziraa,3,Biskra,9,I,0
+Mekhadma,4,Biskra,9,I,0
+Mlili,5,Biskra,9,I,0
+Oughlal,6,Biskra,9,I,0
+Ouled Djellal,7,Biskra,9,I,0
+Oumache,8,Biskra,9,I,0
+Ras El Miaad,9,Biskra,9,I,0
+Sidi Khaled,0,Biskra,9,I,1
+Sidi Okba,1,Biskra,9,I,0
+Tolga,2,Biskra,9,I,0
+Zeribet El Oued,3,Biskra,9,I,0
+Ain Romana,1,Blida,10,IIb,0
+Ben Khelil,2,Blida,10,III,0
+Beni Mered,3,Blida,10,III,0
+Beni Tamou,4,Blida,10,III,0
+Blida,5,Blida,10,III,0
+Bouarfa,6,Blida,10,III,0
+Boufarik,7,Blida,10,III,0
+Bougara,8,Blida,10,IIb,1
+Bouinan,9,Blida,10,III,0
+Chebli,0,Blida,10,III,0
+Chiffa,1,Blida,10,III,0
+Chrea,2,Blida,10,III,0
+Djebabra,3,Blida,10,IIb,0
+El Affroun,4,Blida,10,III,0
+Guerrouaou,5,Blida,10,III,0
+Hammam Melouane,6,Blida,10,IIb,0
+Larbaa,7,Blida,10,IIb,2
+Meftah,8,Blida,10,IIb,0
+Mouzaia,9,Blida,10,III,0
+Oued Djer,0,Blida,10,III,0
+Oued El Alleug,1,Blida,10,III,0
+Ouled Slama,2,Blida,10,III,0
+Ouled Yaich,3,Blida,10,III,1
+Souhane,4,Blida,10,IIb,0
+Soumaa,5,Blida,10,III,1
+Ain Taghrout,1,Bordj Bou Arrer,11,IIa,0
+Ain Tassera,2,Bordj Bou Arrer,11,IIa,0
+Belimour,3,Bordj Bou Arrer,11,IIa,0
+Bendaoud,4,Bordj Bou Arrer,11,IIa,0
+Bir Kasdali,5,Bordj Bou Arrer,11,IIa,0
+Bordj Bou Arreridj,6,Bordj Bou Arrer,11,IIa,0
+Bordj Ghdir,7,Bordj Bou Arrer,11,IIa,0
+Bordj Zemoura,8,Bordj Bou Arrer,11,IIa,0
+Colla,9,Bordj Bou Arrer,11,IIa,0
+Djaafra,0,Bordj Bou Arrer,11,IIa,0
+El Achir,1,Bordj Bou Arrer,11,IIa,0
+El Anseur,2,Bordj Bou Arrer,11,IIa,0
+El Euch,3,Bordj Bou Arrer,11,IIa,0
+El Hammadia,4,Bordj Bou Arrer,11,IIa,0
+El M'Hir,6,Bordj Bou Arrer,11,IIa,0
+El Main,5,Bordj Bou Arrer,11,IIa,0
+Ghilassa,7,Bordj Bou Arrer,11,IIa,0
+Haraza,8,Bordj Bou Arrer,11,IIa,0
+Hasnaoua,9,Bordj Bou Arrer,11,IIa,0
+Khelil,0,Bordj Bou Arrer,11,IIa,0
+Ksour,1,Bordj Bou Arrer,11,IIa,0
+Mansoura,2,Bordj Bou Arrer,11,IIa,0
+Medjana,3,Bordj Bou Arrer,11,IIa,0
+Ouled Brahem,4,Bordj Bou Arrer,11,IIa,0
+Ouled Dahmane,5,Bordj Bou Arrer,11,IIa,0
+Ouled Sidi Brahim,6,Bordj Bou Arrer,11,IIa,1
+Rabta,7,Bordj Bou Arrer,11,IIa,0
+Ras El Oued,8,Bordj Bou Arrer,11,IIa,0
+Sidi Embarek,9,Bordj Bou Arrer,11,IIa,0
+Tafreg,0,Bordj Bou Arrer,11,IIa,0
+Taglait,1,Bordj Bou Arrer,11,IIa,0
+Tesmart,2,Bordj Bou Arrer,11,IIa,0
+Theniet El Anseur,3,Bordj Bou Arrer,11,IIa,0
+Tixter,4,Bordj Bou Arrer,11,IIa,0
+Aghbalou,1,Bouira,12,IIa,0
+Ahl El Ksar,2,Bouira,12,IIa,0
+Ain Bessam,3,Bouira,12,IIa,0
+Ain El Hadjar,4,Bouira,12,IIa,1
+Ain Laloui,5,Bouira,12,IIa,0
+Ain Turk,6,Bouira,12,IIa,1
+Ait Laaziz,7,Bouira,12,IIa,0
+Aomar,8,Bouira,12,IIa,0
+Ath Mansour,9,Bouira,12,IIa,0
+Bechloul,0,Bouira,12,IIa,0
+Bir Ghbalou,1,Bouira,12,IIa,0
+Bordj Oukhriss,2,Bouira,12,IIa,0
+Bouderbala,3,Bouira,12,IIa,0
+Bouira,4,Bouira,12,IIa,0
+Boukram,5,Bouira,12,IIa,0
+Chorfa,6,Bouira,12,IIa,1
+Dechmia,7,Bouira,12,IIa,0
+Dirah,8,Bouira,12,IIa,0
+Djebahia,9,Bouira,12,IIa,0
+El Adjiba,0,Bouira,12,IIa,0
+El Asnam,1,Bouira,12,IIa,0
+El Hachimia,2,Bouira,12,IIa,0
+El Hakimia,3,Bouira,12,IIa,0
+El Khabouzia,4,Bouira,12,IIa,0
+El Mokrani,5,Bouira,12,IIa,0
+Guerrouma,6,Bouira,12,IIa,0
+Hadjera Zerga,7,Bouira,12,IIa,0
+Haizer,8,Bouira,12,IIa,0
+Hanif,9,Bouira,12,IIa,0
+Kadiria,0,Bouira,12,IIa,0
+Lakhdaria,1,Bouira,12,IIa,0
+M'Chedallah,4,Bouira,12,IIa,0
+Maala,2,Bouira,12,IIa,0
+Maamora,3,Bouira,12,IIa,1
+Mezdour,5,Bouira,12,IIa,0
+Oued El Berdi,6,Bouira,12,IIa,0
+Ouled Rached,7,Bouira,12,IIa,0
+Raouraoua,8,Bouira,12,IIa,0
+Ridane,9,Bouira,12,IIa,0
+Saharidj,0,Bouira,12,IIa,0
+Souk El Khemis,1,Bouira,12,IIa,0
+Sour El Ghozlane,2,Bouira,12,IIa,0
+Taghzout,3,Bouira,12,IIa,1
+Taguedit,4,Bouira,12,IIa,0
+Zbarbar,5,Bouira,12,IIa,0
+Afir,1,Boumerdes,13,IIb,0
+Ammal,2,Boumerdes,13,IIa,0
+Baghlia,3,Boumerdes,13,IIb,0
+Ben Choud,4,Boumerdes,13,III,0
+Beni Amrane,5,Boumerdes,13,IIb,0
+Bordj Menaiel,6,Boumerdes,13,III,0
+Boudouaou,7,Boumerdes,13,III,0
+Boudouaou El Bahri,8,Boumerdes,13,III,0
+Boumerdes,9,Boumerdes,13,III,0
+Bouzegza Keddara,0,Boumerdes,13,III,0
+Chabet El Ameur,1,Boumerdes,13,III,0
+Corso,2,Boumerdes,13,III,0
+Dellys,3,Boumerdes,13,III,0
+Djinet,4,Boumerdes,13,III,0
+El Kharrouba,5,Boumerdes,13,III,0
+Hammedi,6,Boumerdes,13,III,0
+Isser,7,Boumerdes,13,IIb,0
+Khemis El Khechna,8,Boumerdes,13,IIb,0
+Laghata,9,Boumerdes,13,III,0
+Larbatache,0,Boumerdes,13,IIb,0
+Naciria,1,Boumerdes,13,IIb,0
+Ouled Aissa,2,Boumerdes,13,III,2
+Ouled Hadjadj,3,Boumerdes,13,III,0
+Ouled Moussa,4,Boumerdes,13,IIb,0
+Si Mustapha,5,Boumerdes,13,III,0
+Sidi Daoud,6,Boumerdes,13,III,0
+Souk El Had,7,Boumerdes,13,IIb,1
+Taourga,8,Boumerdes,13,III,0
+Thenia,9,Boumerdes,13,III,0
+Tidjelabine,0,Boumerdes,13,III,0
+Timezrit,1,Boumerdes,13,IIa,0
+Zemmouri,2,Boumerdes,13,III,0
+Abou El Hassen,1,Chlef,14,III,0
+Ain Merane,2,Chlef,14,III,0
+Benairia,3,Chlef,14,III,0
+Beni Bouattab,4,Chlef,14,III,0
+Beni Haoua,5,Chlef,14,III,0
+Beni Rached,6,Chlef,14,III,0
+Boukadir,7,Chlef,14,IIb,0
+Bouzeghaia,8,Chlef,14,III,0
+Breira,9,Chlef,14,III,0
+Chettia,0,Chlef,14,III,0
+Chlef,1,Chlef,14,III,0
+Dahra,2,Chlef,14,III,0
+El Hadjadj,3,Chlef,14,IIa,0
+El Karimia,4,Chlef,14,IIb,0
+El Marsa,5,Chlef,14,III,2
+Harchoun,6,Chlef,14,IIb,0
+Herenfa,7,Chlef,14,III,0
+Labiodh Medjadja,8,Chlef,14,III,0
+Moussadek,9,Chlef,14,III,0
+Oued Fodda,0,Chlef,14,III,0
+Oued Ghoussine,1,Chlef,14,III,0
+Oued Sly,2,Chlef,14,IIb,0
+Ouled Abbes,3,Chlef,14,III,0
+Ouled Ben Abdelkader,4,Chlef,14,IIa,0
+Ouled Fares,5,Chlef,14,III,0
+Oum Drou,6,Chlef,14,III,0
+Sendjas,7,Chlef,14,IIb,0
+Sidi Abderrahmane,8,Chlef,14,III,1
+Sidi Akkacha,9,Chlef,14,III,0
+Sobha,0,Chlef,14,III,0
+Tadjena,1,Chlef,14,III,0
+Talassa,2,Chlef,14,III,0
+Taougrite,3,Chlef,14,III,0
+Tenes,4,Chlef,14,III,0
+Zeboudja,5,Chlef,14,III,0
+Ain Abid,1,Constantine,15,IIa,0
+Ain Smara,2,Constantine,15,IIa,0
+Ben Badis,3,Constantine,15,IIa,1
+Beni Hamidene,4,Constantine,15,IIa,0
+Constantine,5,Constantine,15,IIa,0
+Didouche Mourad,6,Constantine,15,IIa,0
+El Khroub,7,Constantine,15,IIa,0
+Hamma Bouziane,8,Constantine,15,IIa,0
+Ibn Ziad,9,Constantine,15,IIa,0
+Mesaoud Boudjeriou,0,Constantine,15,IIa,0
+Ouled Rahmoun,1,Constantine,15,IIa,0
+Zighoud Youcef,2,Constantine,15,IIa,0
+Ain Chouhada,1,Djelfa,16,I,0
+Ain El Ibel,2,Djelfa,16,I,0
+Ain Fekka,3,Djelfa,16,I,0
+Ain Maabed,4,Djelfa,16,I,0
+Ain Ouessara,5,Djelfa,16,I,0
+Amoura,6,Djelfa,16,I,0
+Benhar,7,Djelfa,16,I,0
+Beni Yagoub,8,Djelfa,16,I,0
+Birine,9,Djelfa,16,I,0
+Bouira Lahdab,0,Djelfa,16,I,0
+Charef,1,Djelfa,16,I,0
+Dar Chioukh,2,Djelfa,16,I,0
+Deldoul,3,Djelfa,16,I,2
+Djelfa,4,Djelfa,16,I,0
+Douis,5,Djelfa,16,I,0
+El Gueddid,6,Djelfa,16,I,0
+El Idrissia,7,Djelfa,16,I,0
+El Khemis,8,Djelfa,16,I,0
+Feidh El Botma,9,Djelfa,16,I,0
+Guernini,0,Djelfa,16,I,0
+Guettara,1,Djelfa,16,I,0
+Had Sahary,2,Djelfa,16,I,0
+Hassi Bahbah,3,Djelfa,16,I,0
+Hassi El Euch,4,Djelfa,16,I,0
+Hassi Fdoul,5,Djelfa,16,I,0
+Messaad,6,Djelfa,16,I,0
+Mliliha,7,Djelfa,16,I,0
+Mouadjebar,8,Djelfa,16,I,0
+Oum Laadham,9,Djelfa,16,I,0
+Sed Rahal,0,Djelfa,16,I,0
+Selmana,1,Djelfa,16,I,0
+Sidi Baizid,2,Djelfa,16,I,0
+Sidi Laadjel,3,Djelfa,16,I,0
+Tadmit,4,Djelfa,16,I,0
+Zaafrane,5,Djelfa,16,I,0
+Zakkar,6,Djelfa,16,I,0
+Ain El Orak,1,El Bayadh,17,I,0
+Arbaouat,2,El Bayadh,17,I,0
+Bougtoub,3,El Bayadh,17,I,0
+Boussemghoun,4,El Bayadh,17,I,0
+Brezina,5,El Bayadh,17,I,0
+Cheguig,6,El Bayadh,17,I,0
+Chellala,7,El Bayadh,17,I,0
+El Abiodh Sidi Cheikh,8,El Bayadh,17,I,0
+El Bayadh,9,El Bayadh,17,I,0
+El Bnoud,0,El Bayadh,17,I,0
+El Kheither,1,El Bayadh,17,I,0
+El Mehara,2,El Bayadh,17,I,0
+Ghassoul,3,El Bayadh,17,I,0
+Hadj Mechri Boualem,4,El Bayadh,17,I,0
+Kef El Ahmar,5,El Bayadh,17,I,0
+Krakda,6,El Bayadh,17,I,0
+Rogassa,7,El Bayadh,17,I,0
+Sidi Ameur,8,El Bayadh,17,I,1
+Sidi Slimane,9,El Bayadh,17,I,1
+Sidi Tifour,0,El Bayadh,17,I,0
+Stitten,1,El Bayadh,17,I,0
+Tousmouline,2,El Bayadh,17,I,0
+Bayadha,1,El Oued,18,0,0
+Beni Guecha,2,El Oued,18,0,0
+Djamaa,3,El Oued,18,0,0
+Djebila,4,El Oued,18,0,0
+Douar El Ma,5,El Oued,18,0,0
+El M'Ghair,6,El Oued,18,0,0
+El Ogla,7,El Oued,18,0,1
+El Oued,8,El Oued,18,0,0
+Guemar,9,El Oued,18,0,0
+Hamraia,0,El Oued,18,0,0
+Hassani Abdelkrim,1,El Oued,18,0,0
+Hassi Khelifa,2,El Oued,18,0,0
+Kouinine,3,El Oued,18,0,0
+M'Rara,6,El Oued,18,0,0
+Magrane,4,El Oued,18,0,0
+Mih Ouensa,5,El Oued,18,0,0
+Nakhla,7,El Oued,18,0,0
+Oued El Alenda,8,El Oued,18,0,0
+Oum Tiour,9,El Oued,18,0,0
+Ourmes,0,El Oued,18,0,0
+Reguiba,1,El Oued,18,0,0
+Robbah,2,El Oued,18,0,0
+Sidi Amrane,3,El Oued,18,0,0
+Sidi Aoun,4,El Oued,18,0,0
+Sidi Khellil,5,El Oued,18,0,0
+Still,6,El Oued,18,0,0
+Taghzout,7,El Oued,18,0,2
+Taleb Larbi,8,El Oued,18,0,0
+Tendla,9,El Oued,18,0,0
+Trifaou,0,El Oued,18,0,0
+Ain El Assel,1,El-Tarf,19,IIa,0
+Ain Kerma,2,El-Tarf,19,IIa,1
+Asfour,3,El-Tarf,19,IIa,0
+Ben M'Hidi,4,El-Tarf,19,IIa,0
+Berrihane,5,El-Tarf,19,IIa,0
+Besbes,6,El-Tarf,19,IIa,2
+Bougous,7,El-Tarf,19,IIa,0
+Bouhadjar,8,El-Tarf,19,IIa,0
+Bouteldja,9,El-Tarf,19,IIa,0
+Chbaita Mokhtar,0,El-Tarf,19,IIa,0
+Chefia,1,El-Tarf,19,IIa,0
+Chihani,2,El-Tarf,19,IIa,0
+Drean,3,El-Tarf,19,IIa,0
+Echatt,4,El-Tarf,19,IIa,0
+El Aioun,5,El-Tarf,19,IIa,0
+El Kala,6,El-Tarf,19,IIa,0
+El-Tarf,7,El-Tarf,19,IIa,0
+Hammam Beni Salah,8,El-Tarf,19,IIa,0
+Lac Des Oiseaux,9,El-Tarf,19,IIa,0
+Oued Zitoun,0,El-Tarf,19,IIa,0
+Raml Souk,1,El-Tarf,19,IIa,0
+Souarekh,2,El-Tarf,19,IIa,0
+Zerizer,3,El-Tarf,19,IIa,0
+Zitouna,4,El-Tarf,19,IIa,1
+Berriane,1,Ghardaia,20,0,0
+Bounoura,2,Ghardaia,20,0,0
+Dhayet Bendahoua,3,Ghardaia,20,0,0
+El Atteuf,4,Ghardaia,20,0,0
+El Guerrara,5,Ghardaia,20,0,0
+El Mansoura,6,Ghardaia,20,0,0
+Ghardaia,7,Ghardaia,20,0,0
+Golea,8,Ghardaia,20,0,0
+Hassi El Garaa,9,Ghardaia,20,0,0
+Hassi Lefhal,0,Ghardaia,20,0,0
+Metlili,1,Ghardaia,20,0,0
+Sebseb,2,Ghardaia,20,0,0
+Zelfana,3,Ghardaia,20,0,0
+Ain Ben Beida,1,Guelma,21,IIa,0
+Ain Larbi,2,Guelma,21,IIa,0
+Ain Makhlouf,3,Guelma,21,IIa,0
+Ain Reggada,4,Guelma,21,IIa,0
+Ain Sandel,5,Guelma,21,IIa,0
+Belkheir,6,Guelma,21,IIa,0
+Bendjerrah,7,Guelma,21,IIa,0
+Beni Mezline,8,Guelma,21,IIa,0
+Bordj Sabath,9,Guelma,21,IIa,0
+Bouati Mahmoud,0,Guelma,21,IIa,0
+Bouchegouf,1,Guelma,21,IIa,0
+Bouhachana,2,Guelma,21,IIa,0
+Bouhamdane,3,Guelma,21,IIa,0
+Boumahra Ahmed,4,Guelma,21,IIa,0
+Dahouara,5,Guelma,21,IIa,0
+Djeballah Khemissi,6,Guelma,21,IIa,0
+El Fedjoudj,7,Guelma,21,IIa,0
+Guelaat Bousbaa,8,Guelma,21,IIa,0
+Guelma,9,Guelma,21,IIa,0
+Hammam Debagh,0,Guelma,21,IIa,0
+Hammam N'Bail,1,Guelma,21,IIa,0
+Heliopolis,2,Guelma,21,IIa,0
+Houari Boumediene,3,Guelma,21,IIa,0
+Khezara,4,Guelma,21,IIa,0
+Medjez Amar,5,Guelma,21,IIa,0
+Medjez Sfa,6,Guelma,21,IIa,0
+Nechmaya,7,Guelma,21,IIa,0
+Oued Cheham,8,Guelma,21,IIa,0
+Oued Fragha,9,Guelma,21,IIa,0
+Oued Zenati,0,Guelma,21,IIa,0
+Ras El Agba,1,Guelma,21,IIa,0
+Roknia,2,Guelma,21,IIa,0
+Seliaoua Announa,3,Guelma,21,IIa,0
+Tamlouka,4,Guelma,21,IIa,0
+Bordj El Haoues,1,Illizi,22,0,0
+Bordj Omar Driss,2,Illizi,22,0,0
+Debdeb,3,Illizi,22,0,0
+Djanet,4,Illizi,22,0,0
+Illizi,5,Illizi,22,0,0
+In Amenas,6,Illizi,22,0,0
+Bordj Taher,1,Jijel,23,IIa,0
+Boudria Beni Yadjis,2,Jijel,23,IIa,0
+Bouraoui Belhadef,3,Jijel,23,IIa,0
+Boussif Ouled Akseur,4,Jijel,23,IIa,0
+Chahna,5,Jijel,23,IIa,0
+Chebbala Milat,6,Jijel,23,IIa,0
+Chekfa,7,Jijel,23,IIa,0
+Djemaa Beni Habibi,8,Jijel,23,IIa,0
+Djmila,9,Jijel,23,IIa,0
+El Ancer,0,Jijel,23,IIa,0
+El Aouana,1,Jijel,23,IIa,0
+El Kennar Nouchfi,2,Jijel,23,IIa,0
+El Milia,3,Jijel,23,IIa,0
+Emir Abdelkader,4,Jijel,23,IIa,0
+Erraguene,5,Jijel,23,IIa,0
+Jijel,6,Jijel,23,IIa,0
+Kaous,7,Jijel,23,IIa,0
+Kimir Oued Adjoul,8,Jijel,23,IIa,0
+Oudjana,9,Jijel,23,IIa,0
+Ouled Rabah,0,Jijel,23,IIa,0
+Ouled Yahia Khadrouche,1,Jijel,23,IIa,0
+Selma Ben Ziada,2,Jijel,23,IIa,0
+Settara,3,Jijel,23,IIa,0
+Sidi Abdelaziz,4,Jijel,23,IIa,0
+Sidi Maarouf,5,Jijel,23,IIa,0
+Taher,6,Jijel,23,IIa,0
+Texenna,7,Jijel,23,IIa,0
+Ziama Mansouria,8,Jijel,23,IIa,0
+Ain Touila,1,Khenchela,24,I,0
+Babar,2,Khenchela,24,I,0
+Baghai,3,Khenchela,24,I,0
+Bouhmama,4,Khenchela,24,I,0
+Chelia,5,Khenchela,24,I,0
+Cherchar,6,Khenchela,24,I,0
+Djellal,7,Khenchela,24,I,0
+El Hamma,8,Khenchela,24,I,0
+El Mahmal,9,Khenchela,24,I,0
+El Oueldja,0,Khenchela,24,I,1
+Ensigha,1,Khenchela,24,I,0
+Kais,2,Khenchela,24,I,0
+Khenchela,3,Khenchela,24,I,0
+Khirane,4,Khenchela,24,I,0
+M'Sara,5,Khenchela,24,I,0
+M'Toussa,6,Khenchela,24,I,0
+Ouled Rechache,7,Khenchela,24,I,0
+Remila,8,Khenchela,24,I,0
+Tamza,9,Khenchela,24,I,0
+Taouzianat,0,Khenchela,24,I,0
+Yabous,1,Khenchela,24,I,0
+Aflou,1,Laghouat,25,I,0
+Ain Madhi,2,Laghouat,25,I,0
+Ain Sidi Ali,3,Laghouat,25,I,0
+Beidha,4,Laghouat,25,I,0
+Brida,5,Laghouat,25,I,0
+El Assafia,6,Laghouat,25,I,0
+El Ghicha,7,Laghouat,25,I,0
+El Haouaita,8,Laghouat,25,I,0
+Gueltat Sidi Saad,9,Laghouat,25,I,0
+Hadj Mechri,0,Laghouat,25,I,0
+Hassi Dhelaa,1,Laghouat,25,I,0
+Hassi R'Mel,2,Laghouat,25,I,0
+Kheneg,3,Laghouat,25,I,0
+Ksar El Hirane,4,Laghouat,25,I,0
+Laghouat,5,Laghouat,25,I,0
+Mekhareg,6,Laghouat,25,I,0
+Oued M'Zi,8,Laghouat,25,I,0
+Oued Morra,7,Laghouat,25,I,0
+Sebgag,9,Laghouat,25,I,0
+Sidi Bouzid,0,Laghouat,25,I,0
+Sidi Makhlouf,1,Laghouat,25,I,0
+Tadjemout,2,Laghouat,25,I,0
+Tadjrouna,3,Laghouat,25,I,0
+Taouila,4,Laghouat,25,I,0
+Ain Fares,1,Mascara,26,I,1
+Ain Fekan,2,Mascara,26,IIa,0
+Ain Ferah,3,Mascara,26,IIa,0
+Ain Frass,4,Mascara,26,IIa,0
+Alaimia,5,Mascara,26,IIa,0
+Aouf,6,Mascara,26,I,0
+Benian,7,Mascara,26,IIa,0
+Bouhanifia,8,Mascara,26,I,0
+Bouhenni,9,Mascara,26,IIa,0
+Chorfa,0,Mascara,26,IIa,2
+El Bordj,1,Mascara,26,IIa,0
+El Gaada,2,Mascara,26,IIa,0
+El Ghomri,3,Mascara,26,IIa,0
+El Gueitna,4,Mascara,26,IIa,0
+El Hachem,5,Mascara,26,IIa,0
+El Keurt,6,Mascara,26,IIa,0
+El Mamounia,7,Mascara,26,IIa,0
+El Menaouer,8,Mascara,26,IIa,0
+Ferraguig,9,Mascara,26,IIa,0
+Froha,0,Mascara,26,IIa,0
+Gharrous,1,Mascara,26,IIa,0
+Ghriss,2,Mascara,26,IIa,0
+Guerdjoum,3,Mascara,26,IIa,0
+Hacine,4,Mascara,26,IIa,0
+Khalouia,5,Mascara,26,IIa,0
+Makda,6,Mascara,26,IIa,0
+Maoussa,7,Mascara,26,IIa,0
+Mascara,8,Mascara,26,IIa,0
+Matmore,9,Mascara,26,IIa,0
+Moctadouz,0,Mascara,26,IIa,0
+Mohammadia,1,Mascara,26,IIa,2
+Nesmoth,2,Mascara,26,IIa,0
+Oggaz,3,Mascara,26,IIa,0
+Oued El Abtal,4,Mascara,26,I,0
+Oued Taghia,5,Mascara,26,IIa,0
+Ras El Ain Amirouche,6,Mascara,26,IIa,0
+Sedjerara,7,Mascara,26,IIa,0
+Sehailia,8,Mascara,26,IIa,0
+Sidi Abdeldjabar,9,Mascara,26,IIa,0
+Sidi Abdelmoumene,0,Mascara,26,IIa,0
+Sidi Boussaid,1,Mascara,26,IIa,0
+Sidi Kada,2,Mascara,26,IIa,0
+Sig,3,Mascara,26,IIa,0
+Tighennif,4,Mascara,26,IIa,0
+Tizi,5,Mascara,26,IIa,0
+Zahana,6,Mascara,26,IIa,0
+Zelmata,7,Mascara,26,IIa,0
+Ain Boucif,1,Medea,27,I,0
+Ain Ouksir,2,Medea,27,I,0
+Aissaouia,3,Medea,27,IIa,0
+Aziz,4,Medea,27,IIa,0
+Baata,5,Medea,27,IIa,0
+Ben Chicao,6,Medea,27,IIa,0
+Beni Slimane,7,Medea,27,IIa,0
+Berrouaghia,8,Medea,27,IIa,0
+Bir Ben Abed,9,Medea,27,IIa,0
+Boghar,0,Medea,27,IIa,0
+Bouaiche,1,Medea,27,IIa,0
+Bouaichoune,2,Medea,27,IIa,0
+Bouchrahil,3,Medea,27,IIa,0
+Boughzoul,4,Medea,27,I,0
+Bouskene,5,Medea,27,IIa,0
+Chahbounia,6,Medea,27,I,0
+Chellalat El Adhaoura,7,Medea,27,IIa,0
+Cheniguel,8,Medea,27,I,0
+Derrag,9,Medea,27,IIa,0
+Deux Bassins,0,Medea,27,IIa,0
+Djouab,1,Medea,27,IIa,0
+Draa Essmar,2,Medea,27,IIa,0
+El Aouinet,3,Medea,27,IIa,1
+El Azizia,4,Medea,27,IIa,0
+El Guelbelkebir,5,Medea,27,IIa,0
+El Hamdania,6,Medea,27,IIb,0
+El Omaria,7,Medea,27,IIa,0
+Hannacha,8,Medea,27,IIa,0
+Kef Lakhdar,9,Medea,27,IIa,0
+Khams Djouamaa,0,Medea,27,IIa,0
+Ksar El Boukhari,1,Medea,27,IIa,0
+M'Fatha,5,Medea,27,IIa,0
+Maghraoua,2,Medea,27,IIa,0
+Medea,3,Medea,27,IIb,0
+Mezrenna,4,Medea,27,IIa,0
+Mihoub,6,Medea,27,IIa,0
+Moudjebeur,7,Medea,27,IIa,0
+Ouamri,8,Medea,27,IIa,0
+Oued Harbil,9,Medea,27,IIa,0
+Ouled Antar,0,Medea,27,IIa,0
+Ouled Bouachra,1,Medea,27,IIa,0
+Ouled Brahim,2,Medea,27,IIa,1
+Ouled Deide,3,Medea,27,IIa,0
+Ouled Hellal,4,Medea,27,IIa,0
+Ouled Maaref,5,Medea,27,IIa,0
+Oum El Djalil,6,Medea,27,IIa,0
+Ouzera,7,Medea,27,IIa,0
+Rebaia,8,Medea,27,IIa,0
+Saneg,9,Medea,27,IIa,0
+Sedraia,0,Medea,27,IIa,0
+Seghouane,1,Medea,27,IIa,0
+Si Mahdjoub,2,Medea,27,IIa,0
+Sidi Damed,3,Medea,27,I,0
+Sidi Errabia,4,Medea,27,IIa,0
+Sidi Naamane,5,Medea,27,IIa,1
+Sidi Zahar,6,Medea,27,IIa,0
+Sidi Ziane,7,Medea,27,IIa,0
+Souagui,8,Medea,27,IIa,0
+Tablat,9,Medea,27,IIa,0
+Tafraout,0,Medea,27,IIa,0
+Tamesguida,1,Medea,27,IIb,0
+Tizi Mahdi,2,Medea,27,IIa,0
+Tlatet Ed Douair,3,Medea,27,IIa,0
+Zoubiria,4,Medea,27,IIa,0
+Ahmed Rachdi,1,Mila,28,IIa,0
+Ain Beida Harriche,2,Mila,28,IIa,0
+Ain Mellouk,3,Mila,28,IIa,0
+Ain Tine,4,Mila,28,IIa,0
+Amira Arres,5,Mila,28,IIa,0
+Benyahia Abderrahmane,6,Mila,28,IIa,0
+Bouhatem,7,Mila,28,IIa,0
+Chelghoum Laid,8,Mila,28,IIa,0
+Cheraga,9,Mila,28,IIa,2
+Derradji Bousselah,0,Mila,28,IIa,0
+El Ayadi Barbes,1,Mila,28,IIa,0
+El M'Chira,2,Mila,28,IIa,0
+Ferdjioua,3,Mila,28,IIa,0
+Grarem Gouga,4,Mila,28,IIa,0
+Hamala,5,Mila,28,IIa,0
+Mila,6,Mila,28,IIa,0
+Minar Zarza,7,Mila,28,IIa,0
+Oued Athmania,8,Mila,28,IIa,0
+Oued Endja,9,Mila,28,IIa,0
+Oued Seguen,0,Mila,28,IIa,0
+Ouled Khellouf,1,Mila,28,IIa,0
+Rouached,2,Mila,28,IIa,0
+Sidi Khelifa,3,Mila,28,IIa,0
+Sidi Merouane,4,Mila,28,IIa,0
+Tadjenanet,5,Mila,28,IIa,0
+Tassadane Haddada,6,Mila,28,IIa,0
+Tassala Lemtai,7,Mila,28,IIa,0
+Telaghma,8,Mila,28,IIa,0
+Terrai Bainem,9,Mila,28,IIa,0
+Tiberguent,0,Mila,28,IIa,0
+Yahia Beni Guecha,1,Mila,28,IIa,0
+Zeghaia,2,Mila,28,IIa,0
+Abdelmalek Ramdane,1,Mostaganem,29,IIa,0
+Achaacha,2,Mostaganem,29,III,0
+Ain Boudinar,3,Mostaganem,29,IIa,0
+Ain Nouissi,4,Mostaganem,29,IIa,0
+Ain Sidi Cherif,5,Mostaganem,29,IIa,0
+Ain Tedles,6,Mostaganem,29,IIa,0
+Bouguirat,7,Mostaganem,29,IIa,0
+El Hessiane,8,Mostaganem,29,IIa,0
+Fornaka,9,Mostaganem,29,IIa,0
+Hadjadj,0,Mostaganem,29,IIa,0
+Hassi Maameche,1,Mostaganem,29,IIa,0
+Khadra,2,Mostaganem,29,III,0
+Kheir Eddine,3,Mostaganem,29,IIa,0
+Mansourah,4,Mostaganem,29,IIa,1
+Mesra,5,Mostaganem,29,IIa,0
+Mezaghrane,6,Mostaganem,29,IIa,0
+Mostaganem,7,Mostaganem,29,IIa,0
+Nekmaria,8,Mostaganem,29,III,0
+Oued El Kheir,9,Mostaganem,29,IIa,0
+Ouled Boughalem,0,Mostaganem,29,III,0
+Ouled Maalah,1,Mostaganem,29,IIb,0
+Safsaf,2,Mostaganem,29,IIa,0
+Sayada,3,Mostaganem,29,IIa,0
+Sidi Ali,4,Mostaganem,29,IIa,0
+Sidi Belattar,5,Mostaganem,29,IIa,0
+Sidi Lakhdar,6,Mostaganem,29,IIb,2
+Sirat,7,Mostaganem,29,IIa,0
+Souaflia,8,Mostaganem,29,IIa,0
+Sour,9,Mostaganem,29,IIa,0
+Stidia,0,Mostaganem,29,IIa,0
+Tazgait,1,Mostaganem,29,IIa,0
+Touahria,2,Mostaganem,29,IIa,0
+Ain El Hadjel,1,M'Sila,30,I,0
+Ain El Melh,2,M'Sila,30,I,0
+Ain Errich,3,M'Sila,30,I,0
+Ain Fares,4,M'Sila,30,I,2
+Ain Khadra,5,M'Sila,30,I,0
+Belaiba,6,M'Sila,30,IIa,0
+Ben Srour,7,M'Sila,30,I,0
+Beni Ilmene,8,M'Sila,30,I,0
+Benzouh,9,M'Sila,30,I,0
+Berhoum,0,M'Sila,30,IIa,0
+Bir Fodda,1,M'Sila,30,I,0
+Bousaada,2,M'Sila,30,I,0
+Bouti Sayeh,3,M'Sila,30,I,0
+Chellal,4,M'Sila,30,I,0
+Dehahna,5,M'Sila,30,I,0
+Djebel Messaad,6,M'Sila,30,I,0
+El Hamel,7,M'Sila,30,I,0
+El Houamed,8,M'Sila,30,I,0
+Hammam Dhalaa,9,M'Sila,30,I,0
+Khettouti Sed El Djir,0,M'Sila,30,I,0
+Khoubana,1,M'Sila,30,I,0
+M'Cif,5,M'Sila,30,I,0
+M'Sila,9,M'Sila,30,I,0
+M'Tarfa,0,M'Sila,30,I,0
+Maadid,2,M'Sila,30,IIa,0
+Maarif,3,M'Sila,30,I,0
+Magra,4,M'Sila,30,IIa,0
+Medjedel,6,M'Sila,30,I,0
+Menaa,7,M'Sila,30,I,2
+Mohamed Boudiaf,8,M'Sila,30,I,0
+Ouenougha,1,M'Sila,30,I,0
+Ouled Addi Guebala,2,M'Sila,30,I,0
+Ouled Derradj,3,M'Sila,30,IIa,0
+Ouled Madhi,4,M'Sila,30,I,0
+Ouled Mansour,5,M'Sila,30,IIa,0
+Ouled Sidi Brahim,6,M'Sila,30,I,2
+Ouled Slimane,7,M'Sila,30,I,0
+Oultene,8,M'Sila,30,I,0
+Sidi Aissa,9,M'Sila,30,I,0
+Sidi Ameur,0,M'Sila,30,I,2
+Sidi Hadjeres,1,M'Sila,30,I,0
+Sidi M'Hamed,2,M'Sila,30,I,2
+Slim,3,M'Sila,30,I,0
+Soumaa,4,M'Sila,30,I,2
+Tamsa,5,M'Sila,30,I,0
+Tarmount,6,M'Sila,30,IIa,0
+Zerzour,7,M'Sila,30,I,0
+Ain Ben Khelil,1,Naama,31,I,0
+Ain Sefra,2,Naama,31,I,0
+Asla,3,Naama,31,I,0
+Djenien Bourezg,4,Naama,31,I,0
+El Biod,5,Naama,31,I,0
+Kasdir,6,Naama,31,I,0
+Mechria,7,Naama,31,I,0
+Mekmen Ben Amar,8,Naama,31,I,0
+Moghrar,9,Naama,31,I,0
+Naama,0,Naama,31,I,0
+Sfissifa,1,Naama,31,I,0
+Tiout,2,Naama,31,I,0
+Ain Biya,1,Oran,32,IIa,0
+Ain Kerma,2,Oran,32,IIa,2
+Ain Turk,3,Oran,32,IIa,2
+Arzew,4,Oran,32,IIa,0
+Ben Freha,5,Oran,32,IIa,0
+Bethioua,6,Oran,32,IIa,0
+Bir El Djir,7,Oran,32,IIa,0
+Boufatis,8,Oran,32,IIa,0
+Bousfer,9,Oran,32,IIa,0
+Boutlelis,0,Oran,32,IIa,0
+El Ancor,1,Oran,32,IIa,0
+El Braya,2,Oran,32,IIa,0
+El Karma,3,Oran,32,IIa,0
+Es Senia,4,Oran,32,IIa,0
+Gdyel,5,Oran,32,IIa,0
+Hassi Ben Okba,6,Oran,32,IIa,0
+Hassi Bounif,7,Oran,32,IIa,0
+Hassi Mefsoukh,8,Oran,32,IIa,0
+Marsat El Hadjadj,9,Oran,32,IIa,0
+Mers El Kebir,0,Oran,32,IIa,0
+Misserghin,1,Oran,32,IIa,0
+Oran,2,Oran,32,IIa,0
+Oued Tlelat,3,Oran,32,IIa,0
+Sidi Ben Yabka,4,Oran,32,IIa,0
+Sidi Chami,5,Oran,32,IIa,0
+Tafraoui,6,Oran,32,IIa,0
+Ain Beida,1,Ouargla,33,0,1
+Balidat Ameur,2,Ouargla,33,0,0
+Benaceur,3,Ouargla,33,0,0
+El Allia,4,Ouargla,33,0,0
+El Borma,5,Ouargla,33,0,0
+El Hadjira,6,Ouargla,33,0,0
+Hassi Ben Abdellah,7,Ouargla,33,0,0
+Hassi Messaoud,8,Ouargla,33,0,0
+M'Naguer,0,Ouargla,33,0,0
+Megarine,9,Ouargla,33,0,0
+N'Goussa,2,Ouargla,33,0,0
+Nezla,1,Ouargla,33,0,0
+Ouargla,3,Ouargla,33,0,0
+Rouissat,4,Ouargla,33,0,0
+Sidi Khouiled,5,Ouargla,33,0,0
+Sidi Slimane,6,Ouargla,33,0,2
+Taibet,7,Ouargla,33,0,0
+Tamacine,8,Ouargla,33,0,0
+Tebesbest,9,Ouargla,33,0,0
+Touggourt,0,Ouargla,33,0,0
+Zaouia El Abidia,1,Ouargla,33,0,0
+Ain Babouche,1,Oum El Bouaghi,34,I,0
+Ain Beida,2,Oum El Bouaghi,34,I,2
+Ain Diss,3,Oum El Bouaghi,34,I,0
+Ain Fakroun,4,Oum El Bouaghi,34,I,0
+Ain Kercha,5,Oum El Bouaghi,34,I,0
+Ain M'Lila,6,Oum El Bouaghi,34,I,0
+Ain Zitoun,7,Oum El Bouaghi,34,I,0
+Behir Chergui,8,Oum El Bouaghi,34,I,0
+Berriche,9,Oum El Bouaghi,34,I,0
+Bir Chouhada,0,Oum El Bouaghi,34,I,0
+Dhalaa,1,Oum El Bouaghi,34,I,0
+El Amiria,2,Oum El Bouaghi,34,I,0
+El Belala,3,Oum El Bouaghi,34,I,0
+El Djezia,4,Oum El Bouaghi,34,I,0
+El Fedjoudj Boughrara Sao,5,Oum El Bouaghi,34,I,0
+El Harmilia,6,Oum El Bouaghi,34,I,0
+El Zorg,7,Oum El Bouaghi,34,I,0
+Fkirina,8,Oum El Bouaghi,34,I,0
+Hanchir Toumghani,9,Oum El Bouaghi,34,I,0
+Ksar Sbahi,0,Oum El Bouaghi,34,I,0
+Meskiana,1,Oum El Bouaghi,34,I,0
+Oued Nini,2,Oum El Bouaghi,34,I,0
+Ouled Gacem,3,Oum El Bouaghi,34,I,0
+Ouled Hamla,4,Oum El Bouaghi,34,I,0
+Ouled Zouai,5,Oum El Bouaghi,34,I,0
+Oum El Bouaghi,6,Oum El Bouaghi,34,I,0
+Rehia,7,Oum El Bouaghi,34,I,0
+Sigus,8,Oum El Bouaghi,34,I,0
+Souk Naamane,9,Oum El Bouaghi,34,I,0
+Ain Rahma,1,Relizane,35,IIa,0
+Ain Tarek,2,Relizane,35,IIa,0
+Ammi Moussa,3,Relizane,35,IIa,0
+Belaassel Bouzegza,4,Relizane,35,IIa,0
+Ben Daoud,5,Relizane,35,IIa,0
+Beni Dergoun,6,Relizane,35,IIa,0
+Beni Zentis,7,Relizane,35,IIb,0
+Dar Ben Abdellah,8,Relizane,35,IIa,0
+Djidiouia,9,Relizane,35,IIb,0
+El Guettar,0,Relizane,35,III,0
+El H'Madna,3,Relizane,35,IIa,0
+El Hamri,1,Relizane,35,IIa,0
+El Hassi,2,Relizane,35,IIa,2
+El Matmar,4,Relizane,35,IIa,0
+El Oueldja,5,Relizane,35,IIa,2
+Had Chekkala,6,Relizane,35,IIa,0
+Kalaa,7,Relizane,35,IIa,0
+Lahlef,8,Relizane,35,IIa,0
+Mazouna,9,Relizane,35,III,0
+Mediouna,0,Relizane,35,III,0
+Mendes,1,Relizane,35,IIa,0
+Merdjet Sidi Abed,2,Relizane,35,IIa,0
+Ouarizane,3,Relizane,35,IIa,0
+Oued El Djemaa,4,Relizane,35,IIa,0
+Oued Essalem,5,Relizane,35,IIa,0
+Oued Rhiou,6,Relizane,35,IIb,0
+Ouled Sidi Mihoub,7,Relizane,35,IIa,0
+Ouled Yaich,8,Relizane,35,IIa,2
+Ramka,9,Relizane,35,IIa,0
+Relizane,0,Relizane,35,IIa,0
+Sidi Khettab,1,Relizane,35,IIa,0
+Sidi Lazreg,2,Relizane,35,IIa,0
+Sidi M'Hamed Ben Ali,3,Relizane,35,IIa,0
+Sidi M'Hamed Benaouda,4,Relizane,35,IIa,0
+Sidi Saada,5,Relizane,35,IIa,0
+Souk El Had,6,Relizane,35,IIa,2
+Yellel,7,Relizane,35,IIa,0
+Zemmoura,8,Relizane,35,IIa,0
+Ain El Hadjar,1,Saida,36,I,2
+Ain Skhouna,2,Saida,36,I,0
+Ain Soltane,3,Saida,36,I,2
+Doui Thabet,4,Saida,36,I,0
+El Hassasna,5,Saida,36,I,0
+Hounet,6,Saida,36,I,0
+Maamora,7,Saida,36,I,2
+Moulay Larbi,8,Saida,36,I,0
+Ouled Brahim,9,Saida,36,I,2
+Ouled Khaled,0,Saida,36,I,0
+Saida,1,Saida,36,I,0
+Sidi Ahmed,2,Saida,36,I,0
+Sidi Amar,3,Saida,36,I,1
+Sidi Boubekeur,4,Saida,36,I,0
+Tircine,5,Saida,36,I,0
+Youb,6,Saida,36,I,0
+Ain Abessa,1,Setif,37,IIa,0
+Ain Arnat,2,Setif,37,IIa,0
+Ain Azal,3,Setif,37,IIa,0
+Ain El Kebira,4,Setif,37,IIa,0
+Ain Lagradj,5,Setif,37,IIa,0
+Ain Lahdjar,6,Setif,37,IIa,0
+Ain Oulmane,7,Setif,37,IIa,0
+Ain Roua,8,Setif,37,IIa,0
+Ain Sebt,9,Setif,37,IIa,0
+Ait Tizi,0,Setif,37,IIa,0
+Amoucha,1,Setif,37,IIa,0
+Babor,2,Setif,37,IIa,0
+Bazer Sakra,3,Setif,37,IIa,0
+Beidha Bordj,4,Setif,37,IIa,0
+Bellaa,5,Setif,37,IIa,0
+Beni Aziz,6,Setif,37,IIa,0
+Beni Chebana,7,Setif,37,IIa,0
+Beni Fouda,8,Setif,37,IIa,0
+Beni Hocine,9,Setif,37,IIa,0
+Beni Mouhli,0,Setif,37,IIa,0
+Beni Ouartilane,1,Setif,37,IIa,0
+Bir El Arch,2,Setif,37,IIa,0
+Bir Haddada,3,Setif,37,IIa,0
+Bouandas,4,Setif,37,IIa,0
+Bougaa,5,Setif,37,IIa,0
+Bousselam,6,Setif,37,IIa,0
+Boutaleb,7,Setif,37,IIa,0
+Dehamcha,8,Setif,37,IIa,0
+Djemila,9,Setif,37,IIa,0
+Draa Kebila,0,Setif,37,IIa,0
+El Eulma,1,Setif,37,IIa,0
+El Oueldja,2,Setif,37,IIa,2
+El Ouricia,3,Setif,37,IIa,0
+Guellal,4,Setif,37,IIa,0
+Guelta Zerga,5,Setif,37,IIa,0
+Guenzet Tassameurt,6,Setif,37,IIa,0
+Guidjel,7,Setif,37,IIa,0
+Hamma,8,Setif,37,IIa,0
+Hammam Guergour,9,Setif,37,IIa,0
+Hammam Skhouna,0,Setif,37,IIa,0
+Harbil,1,Setif,37,IIa,0
+Ksar El Abtal,2,Setif,37,IIa,0
+M'Zada,6,Setif,37,IIa,0
+Maaouia,3,Setif,37,IIa,0
+Maouklane,4,Setif,37,IIa,0
+Mezloug,5,Setif,37,IIa,0
+Oued El Bared,7,Setif,37,IIa,0
+Ouled Addouane,8,Setif,37,IIa,0
+Ouled Sabor,9,Setif,37,IIa,0
+Ouled Sidi Ahmed,0,Setif,37,IIa,0
+Ouled Tebben,1,Setif,37,IIa,0
+Rosfa,2,Setif,37,IIa,0
+Salah Bey,3,Setif,37,IIa,0
+Serdj El Ghoul,4,Setif,37,IIa,0
+Setif,5,Setif,37,IIa,0
+Tachouda,6,Setif,37,IIa,0
+Tala Ifacene,7,Setif,37,IIa,0
+Taya,8,Setif,37,IIa,0
+Tella,9,Setif,37,IIa,0
+Tizi N'Bechar,0,Setif,37,IIa,0
+Ain Adden,1,Sidi Bel Abbes,38,I,0
+Ain El Berd,2,Sidi Bel Abbes,38,I,0
+Ain Kada,3,Sidi Bel Abbes,38,I,0
+Ain Thrid,4,Sidi Bel Abbes,38,I,0
+Ain Tindamine,5,Sidi Bel Abbes,38,I,0
+Amarnas,6,Sidi Bel Abbes,38,I,0
+Bedrabine El Mokrani,7,Sidi Bel Abbes,38,I,0
+Belarbi,8,Sidi Bel Abbes,38,I,0
+Ben Badis,9,Sidi Bel Abbes,38,I,2
+Benachiba Chelia,0,Sidi Bel Abbes,38,I,0
+Bir El H'Mam,1,Sidi Bel Abbes,38,I,0
+Boudjebaa El Bordj,2,Sidi Bel Abbes,38,I,0
+Boukanefis,3,Sidi Bel Abbes,38,I,0
+Chetouane Belaila,4,Sidi Bel Abbes,38,I,0
+Dhaya,5,Sidi Bel Abbes,38,I,0
+El Hacaiba,6,Sidi Bel Abbes,38,I,0
+Hassi Daho,7,Sidi Bel Abbes,38,I,0
+Hassi Zahana,8,Sidi Bel Abbes,38,I,0
+Lamtar,9,Sidi Bel Abbes,38,I,0
+M'Cid,2,Sidi Bel Abbes,38,I,0
+Makedra,0,Sidi Bel Abbes,38,I,0
+Marhoum,1,Sidi Bel Abbes,38,I,0
+Merine,3,Sidi Bel Abbes,38,I,0
+Mezaourou,4,Sidi Bel Abbes,38,I,0
+Mostefa Ben Brahim,5,Sidi Bel Abbes,38,I,0
+Moulay Slissen,6,Sidi Bel Abbes,38,I,0
+Oued Sbaa,7,Sidi Bel Abbes,38,I,0
+Oued Sefioun,8,Sidi Bel Abbes,38,I,0
+Oued Taourira,9,Sidi Bel Abbes,38,I,0
+Ras El Ma,0,Sidi Bel Abbes,38,I,0
+Redjem Demmouche,1,Sidi Bel Abbes,38,I,0
+Sehala Thaoura,2,Sidi Bel Abbes,38,I,0
+Sfisef,3,Sidi Bel Abbes,38,I,0
+Sidi Ali Benyoub,4,Sidi Bel Abbes,38,I,0
+Sidi Ali Boussidi,5,Sidi Bel Abbes,38,I,0
+Sidi Bel Abbes,6,Sidi Bel Abbes,38,I,0
+Sidi Brahim,7,Sidi Bel Abbes,38,I,0
+Sidi Chaib,8,Sidi Bel Abbes,38,I,0
+Sidi Daho,9,Sidi Bel Abbes,38,I,0
+Sidi Hamadouche,0,Sidi Bel Abbes,38,I,0
+Sidi Khaled,1,Sidi Bel Abbes,38,I,2
+Sidi Lahcene,2,Sidi Bel Abbes,38,I,0
+Sidi Yacoub,3,Sidi Bel Abbes,38,I,0
+Tabia,4,Sidi Bel Abbes,38,I,0
+Tafissour,5,Sidi Bel Abbes,38,I,0
+Taoudmout,6,Sidi Bel Abbes,38,I,0
+Teghalimet,7,Sidi Bel Abbes,38,I,0
+Telagh,8,Sidi Bel Abbes,38,I,0
+Tenira,9,Sidi Bel Abbes,38,I,0
+Tessala,0,Sidi Bel Abbes,38,I,0
+Tilmouni,1,Sidi Bel Abbes,38,I,0
+Zerouala,2,Sidi Bel Abbes,38,I,0
+Ain Bouziane,1,Skikda,39,IIa,0
+Ain Cherchar,2,Skikda,39,IIa,0
+Ain Kechra,3,Skikda,39,IIa,0
+Ain Zouit,4,Skikda,39,IIa,0
+Azzaba,5,Skikda,39,IIa,0
+Bekkouche Lakhdar,6,Skikda,39,IIa,0
+Ben Azzouz,7,Skikda,39,IIa,0
+Beni Bachir,8,Skikda,39,IIa,0
+Beni Oulbane,9,Skikda,39,IIa,0
+Beni Zid,0,Skikda,39,IIa,0
+Bir El Ouiden,1,Skikda,39,IIa,0
+Bouchtata,2,Skikda,39,IIa,0
+Cheraia,3,Skikda,39,IIa,0
+Collo,4,Skikda,39,IIa,0
+Djendel Saadi Mohamed,5,Skikda,39,IIa,0
+El Ghedir,6,Skikda,39,IIa,0
+El Hadaiek,7,Skikda,39,IIa,0
+El Harrouch,8,Skikda,39,IIa,0
+El Marsa,9,Skikda,39,IIa,2
+Emdjez Edchich,0,Skikda,39,IIa,0
+Es Sebt,1,Skikda,39,IIa,0
+Fil Fila,2,Skikda,39,IIa,0
+Hamadi Krouma,3,Skikda,39,IIa,0
+Kanoua,4,Skikda,39,IIa,0
+Kerkera,5,Skikda,39,IIa,0
+Kheng Mayoum,6,Skikda,39,IIa,0
+Oued Zhour,7,Skikda,39,IIa,0
+Ouldja Boulbellout,8,Skikda,39,IIa,0
+Ouled Attia,9,Skikda,39,IIa,0
+Ouled Hebaba,0,Skikda,39,IIa,0
+Oum Toub,1,Skikda,39,IIa,0
+Ramdane Djamel,2,Skikda,39,IIa,0
+Salah Bouchaour,3,Skikda,39,IIa,0
+Sidi Mezghiche,4,Skikda,39,IIa,0
+Skikda,5,Skikda,39,IIa,0
+Tamalous,6,Skikda,39,IIa,0
+Zerdezas,7,Skikda,39,IIa,0
+Zitouna,8,Skikda,39,IIa,2
+Ain Soltane,1,Souk-Ahras,40,IIa,2
+Ain Zana,2,Souk-Ahras,40,IIa,0
+Bir Bou Haouch,3,Souk-Ahras,40,IIa,0
+Drea,4,Souk-Ahras,40,IIa,0
+Haddada,5,Souk-Ahras,40,IIa,0
+Hanancha,6,Souk-Ahras,40,IIa,0
+Khedara,7,Souk-Ahras,40,IIa,0
+Khemissa,8,Souk-Ahras,40,IIa,0
+M'Daourouche,9,Souk-Ahras,40,IIa,0
+Mechroha,0,Souk-Ahras,40,IIa,0
+Merahna,1,Souk-Ahras,40,IIa,0
+Oued Keberit,2,Souk-Ahras,40,IIa,0
+Ouled Driss,3,Souk-Ahras,40,IIa,0
+Ouled Moumen,4,Souk-Ahras,40,IIa,0
+Oum El Adhaim,5,Souk-Ahras,40,IIa,0
+Quillen,6,Souk-Ahras,40,IIa,0
+Raggouba,7,Souk-Ahras,40,IIa,0
+Safel El Ouiden,8,Souk-Ahras,40,IIa,0
+Sedrata,9,Souk-Ahras,40,IIa,0
+Sidi Fredj,0,Souk-Ahras,40,IIa,0
+Souk-Ahras,1,Souk-Ahras,40,IIa,0
+Taoura,2,Souk-Ahras,40,IIa,0
+Terraguelt,3,Souk-Ahras,40,IIa,0
+Tiffech,4,Souk-Ahras,40,IIa,0
+Zaarouria,5,Souk-Ahras,40,IIa,0
+Zouabi,6,Souk-Ahras,40,IIa,0
+Abalessa,1,Tamanrasset,41,0,0
+Fouggarat Ez Zouaia,2,Tamanrasset,41,0,0
+Idles,3,Tamanrasset,41,0,0
+In Amguel,4,Tamanrasset,41,0,0
+In Ghar,5,Tamanrasset,41,0,0
+In Guezzam,6,Tamanrasset,41,0,0
+In Salah,7,Tamanrasset,41,0,0
+Tamanrasset,8,Tamanrasset,41,0,0
+Tazrouk,9,Tamanrasset,41,0,0
+Tin Zaouatine,0,Tamanrasset,41,0,0
+Ain Zerga,1,Tebessa,42,I,0
+Bedjene,2,Tebessa,42,I,0
+Bekkaria,3,Tebessa,42,I,0
+Bir Dheheb,4,Tebessa,42,I,0
+Bir El Ater,5,Tebessa,42,I,0
+Bir Mokadem,6,Tebessa,42,I,0
+Boukhadra,7,Tebessa,42,I,0
+Boulhaf Dyr,8,Tebessa,42,I,0
+Cheria,9,Tebessa,42,I,0
+El Aouinet,0,Tebessa,42,I,2
+El Houidjbet,1,Tebessa,42,I,0
+El Kouif,2,Tebessa,42,I,0
+El Ma Labiod,3,Tebessa,42,I,0
+El Mazeraa,4,Tebessa,42,I,0
+El Meridj,5,Tebessa,42,I,0
+El Ogla,6,Tebessa,42,I,2
+El Ogla El Malha,7,Tebessa,42,I,0
+El Ouenza,8,Tebessa,42,I,0
+Ferkane,9,Tebessa,42,I,0
+Gourigueur,0,Tebessa,42,I,0
+Hammamet,1,Tebessa,42,I,0
+Morsot,2,Tebessa,42,I,0
+Negrine,3,Tebessa,42,I,0
+Oum Ali,4,Tebessa,42,I,0
+Safsaf El Ouesra,5,Tebessa,42,I,0
+Stah Guentis,6,Tebessa,42,I,0
+Tebessa,7,Tebessa,42,I,0
+Thlidjene,8,Tebessa,42,I,0
+Oum El Assel,1,Tindouf,44,0,0
+Tindouf,2,Tindouf,44,0,0
+Ain Bouchekif,1,Tiaret,43,I,0
+Ain Deheb,2,Tiaret,43,I,0
+Ain El Hadid,3,Tiaret,43,I,0
+Ain Kermes,4,Tiaret,43,I,0
+Ain Zarit,5,Tiaret,43,I,0
+Bougara,6,Tiaret,43,I,2
+Chehaima,7,Tiaret,43,I,0
+Dahmouni,8,Tiaret,43,I,0
+Djebilet Rosfa,9,Tiaret,43,I,0
+Djillali Ben Amar,0,Tiaret,43,I,0
+Faidja,1,Tiaret,43,I,0
+Frenda,2,Tiaret,43,I,0
+Guertoufa,3,Tiaret,43,I,0
+Hamadia,4,Tiaret,43,I,0
+Ksar Chellala,5,Tiaret,43,I,0
+Machraa Sfa,6,Tiaret,43,I,0
+Madna,7,Tiaret,43,I,0
+Mahdia,8,Tiaret,43,I,0
+Medrissa,9,Tiaret,43,I,0
+Medroussa,0,Tiaret,43,I,0
+Meghila,1,Tiaret,43,I,0
+Mellakou,2,Tiaret,43,I,0
+Nadorah,3,Tiaret,43,I,0
+Naima,4,Tiaret,43,I,0
+Oued Lilli,5,Tiaret,43,I,0
+Rahouia,6,Tiaret,43,I,0
+Rechaiga,7,Tiaret,43,I,0
+Sebaine,8,Tiaret,43,I,0
+Sebt,9,Tiaret,43,I,0
+Serghine,0,Tiaret,43,I,0
+Sidi Abdelghani,1,Tiaret,43,I,0
+Sidi Abderrahmane,2,Tiaret,43,I,2
+Sidi Ali Mellal,3,Tiaret,43,I,0
+Sidi Bakhti,4,Tiaret,43,I,0
+Sidi Hosni,5,Tiaret,43,I,0
+Sougueur,6,Tiaret,43,I,0
+Tagdemt,7,Tiaret,43,I,0
+Takhmaret,8,Tiaret,43,I,0
+Tiaret,9,Tiaret,43,I,0
+Tidda,0,Tiaret,43,I,0
+Tousnina,1,Tiaret,43,I,0
+Zmalet Emir Abdelkader,2,Tiaret,43,I,0
+Aghbal,1,Tipaza,45,III,0
+Ahmer El Ain,2,Tipaza,45,III,0
+Ain Tagourait,3,Tipaza,45,III,0
+Beni Milleuk,4,Tipaza,45,III,0
+Bou Ismail,5,Tipaza,45,III,0
+Bouharoun,6,Tipaza,45,III,0
+Bourkika,7,Tipaza,45,III,0
+Chaiba,8,Tipaza,45,III,0
+Cherchel,9,Tipaza,45,III,0
+Damous,0,Tipaza,45,III,0
+Douaouda,1,Tipaza,45,III,0
+Fouka,2,Tipaza,45,III,0
+Gouraya,3,Tipaza,45,III,0
+Hadjeret Ennous,4,Tipaza,45,III,0
+Hadjout,5,Tipaza,45,III,0
+Hattatba,6,Tipaza,45,III,0
+Khemisti,7,Tipaza,45,III,1
+Kolea,8,Tipaza,45,III,0
+Larhat,9,Tipaza,45,III,0
+Menaceur,0,Tipaza,45,III,0
+Messelmoun,1,Tipaza,45,III,0
+Meurad,2,Tipaza,45,III,0
+Nador,3,Tipaza,45,III,0
+Sidi Amar,4,Tipaza,45,III,2
+Sidi Ghiles,5,Tipaza,45,III,0
+Sidi Rached,6,Tipaza,45,III,0
+Sidi Semiane,7,Tipaza,45,III,0
+Tipaza,8,Tipaza,45,III,0
+Ammari,1,Tissemsilt,46,IIa,0
+Beni Chaib,2,Tissemsilt,46,IIa,0
+Beni Lahcene,3,Tissemsilt,46,IIa,0
+Bordj Bounaama,4,Tissemsilt,46,IIa,0
+Bordj El Emir Abdelkader,5,Tissemsilt,46,IIa,0
+Boucaid,6,Tissemsilt,46,IIa,0
+Khemisti,7,Tissemsilt,46,IIa,2
+Larbaa,8,Tissemsilt,46,IIa,2
+Lardjem,9,Tissemsilt,46,IIa,0
+Layoune,0,Tissemsilt,46,IIa,0
+Lazharia,1,Tissemsilt,46,IIa,0
+Maacem,2,Tissemsilt,46,IIa,0
+Melaab,3,Tissemsilt,46,IIa,0
+Ouled Bessem,4,Tissemsilt,46,IIa,0
+Sidi Abed,5,Tissemsilt,46,IIa,0
+Sidi Boutouchent,6,Tissemsilt,46,IIa,0
+Sidi Lantri,7,Tissemsilt,46,IIa,0
+Sidi Slimane,8,Tissemsilt,46,IIa,2
+Tamalaht,9,Tissemsilt,46,IIa,0
+Theniet El Had,0,Tissemsilt,46,IIa,0
+Tissemsilt,1,Tissemsilt,46,IIa,0
+Youssoufia,2,Tissemsilt,46,IIa,0
+Abi Youcef,1,Tizi Ouzou,47,IIa,0
+Aghni Goughran,2,Tizi Ouzou,47,IIa,0
+Aghrib,3,Tizi Ouzou,47,IIa,0
+Ain El Hammam,4,Tizi Ouzou,47,IIa,0
+Ain Zaouia,5,Tizi Ouzou,47,IIa,0
+Ait Aggouacha,6,Tizi Ouzou,47,IIa,0
+Ait Aissa Mimoun,7,Tizi Ouzou,47,IIa,0
+Ait Bouadou,8,Tizi Ouzou,47,IIa,0
+Ait Boumahdi,9,Tizi Ouzou,47,IIa,0
+Ait Chaffaa,0,Tizi Ouzou,47,IIa,0
+Ait Khelili,1,Tizi Ouzou,47,IIa,0
+Ait Mahmoud,2,Tizi Ouzou,47,IIa,0
+Ait Oumalou,3,Tizi Ouzou,47,IIa,0
+Ait Toudert,4,Tizi Ouzou,47,IIa,0
+Ait Yahia,5,Tizi Ouzou,47,IIa,0
+Ait Yahia Moussa,6,Tizi Ouzou,47,IIa,0
+Akbil,7,Tizi Ouzou,47,IIa,0
+Akerrou,8,Tizi Ouzou,47,IIa,0
+Assi Youcef,9,Tizi Ouzou,47,IIa,0
+Azazga,0,Tizi Ouzou,47,IIa,0
+Azeffoun,1,Tizi Ouzou,47,IIa,0
+Beni Aissi,2,Tizi Ouzou,47,IIa,0
+Beni Douala,3,Tizi Ouzou,47,IIa,0
+Beni Yenni,4,Tizi Ouzou,47,IIa,0
+Beni Ziki,5,Tizi Ouzou,47,IIa,0
+Beni Zmenzer,6,Tizi Ouzou,47,IIa,0
+Boghni,7,Tizi Ouzou,47,IIa,0
+Boudjima,8,Tizi Ouzou,47,IIa,0
+Bounouh,9,Tizi Ouzou,47,IIa,0
+Bouzguen,0,Tizi Ouzou,47,IIa,0
+Draa Ben Khedda,1,Tizi Ouzou,47,IIa,0
+Draa El Mizan,2,Tizi Ouzou,47,IIa,0
+Freha,3,Tizi Ouzou,47,IIa,0
+Frikat,4,Tizi Ouzou,47,IIa,0
+Iboudraren,5,Tizi Ouzou,47,IIa,0
+Idjeur,6,Tizi Ouzou,47,IIa,0
+Iferhounene,7,Tizi Ouzou,47,IIa,0
+Ifigha,8,Tizi Ouzou,47,IIa,0
+Iflissen,9,Tizi Ouzou,47,IIa,0
+Illilten,0,Tizi Ouzou,47,IIa,0
+Iloula Oumalou,1,Tizi Ouzou,47,IIa,0
+Imsouhal,2,Tizi Ouzou,47,IIa,0
+Irdjen,3,Tizi Ouzou,47,IIa,0
+Larba Nait Irathen,4,Tizi Ouzou,47,IIa,0
+M'Kira,0,Tizi Ouzou,47,IIa,0
+Maatka,5,Tizi Ouzou,47,IIa,0
+Makouda,6,Tizi Ouzou,47,IIa,0
+Mechtrass,7,Tizi Ouzou,47,IIa,0
+Mekla,8,Tizi Ouzou,47,IIa,0
+Mizrana,9,Tizi Ouzou,47,IIb,0
+Ouacif,1,Tizi Ouzou,47,IIa,0
+Ouadhia,2,Tizi Ouzou,47,IIa,0
+Ouaguenoun,3,Tizi Ouzou,47,IIa,0
+Sidi Naamane,4,Tizi Ouzou,47,IIa,2
+Souamaa,5,Tizi Ouzou,47,IIa,0
+Souk El Tenine,6,Tizi Ouzou,47,IIa,0
+Tadmait,7,Tizi Ouzou,47,IIa,0
+Tigzirt,8,Tizi Ouzou,47,IIa,0
+Timizart,9,Tizi Ouzou,47,IIa,0
+Tirmitine,0,Tizi Ouzou,47,IIa,0
+Tizi Ghenif,1,Tizi Ouzou,47,IIa,0
+Tizi N'Thleta,2,Tizi Ouzou,47,IIa,0
+Tizi Ouzou,3,Tizi Ouzou,47,IIa,0
+Tizi Rached,4,Tizi Ouzou,47,IIa,0
+Yakouren,5,Tizi Ouzou,47,IIa,0
+Yatafen,6,Tizi Ouzou,47,IIa,0
+Zekri,7,Tizi Ouzou,47,IIa,0
+Ain Fetah,1,Tlemcen,48,I,0
+Ain Fezza,2,Tlemcen,48,I,0
+Ain Ghoraba,3,Tlemcen,48,I,0
+Ain Kebira,4,Tlemcen,48,I,0
+Ain Nehala,5,Tlemcen,48,I,0
+Ain Tallout,6,Tlemcen,48,I,0
+Ain Youcef,7,Tlemcen,48,I,0
+Amieur,8,Tlemcen,48,I,0
+Azails,9,Tlemcen,48,I,0
+Bab El Assa,0,Tlemcen,48,I,0
+Beni Bahdel,1,Tlemcen,48,I,0
+Beni Boussaid,2,Tlemcen,48,I,0
+Beni Khellad,3,Tlemcen,48,I,0
+Beni Mester,4,Tlemcen,48,I,0
+Beni Ouarsous,5,Tlemcen,48,I,0
+Beni Semiel,6,Tlemcen,48,I,0
+Beni Snous,7,Tlemcen,48,I,0
+Bensekrane,8,Tlemcen,48,I,0
+Bouhlou,9,Tlemcen,48,I,0
+Chetouane,0,Tlemcen,48,I,0
+Dar Yaghmourassene,1,Tlemcen,48,I,0
+Djebala,2,Tlemcen,48,I,0
+El Aricha,3,Tlemcen,48,I,0
+El Bouihi,4,Tlemcen,48,I,0
+El Fehoul,5,Tlemcen,48,I,0
+El Gor,6,Tlemcen,48,I,0
+Fellaoucene,7,Tlemcen,48,I,0
+Ghazaouet,8,Tlemcen,48,I,0
+Hammam Boughrara,9,Tlemcen,48,I,0
+Henaya,0,Tlemcen,48,I,0
+Honaine,1,Tlemcen,48,I,0
+M'Sirda Fouaga,5,Tlemcen,48,I,0
+Maghnia,2,Tlemcen,48,I,0
+Mansourah,3,Tlemcen,48,I,2
+Mersa Ben M'Hidi,4,Tlemcen,48,I,0
+Nedroma,6,Tlemcen,48,I,0
+Oued Chouly,7,Tlemcen,48,I,0
+Ouled Mimoun,8,Tlemcen,48,I,0
+Ouled Riah,9,Tlemcen,48,I,0
+Remchi,0,Tlemcen,48,I,0
+Sabra,1,Tlemcen,48,I,0
+Sebaa Chioukh,2,Tlemcen,48,I,0
+Sebdou,3,Tlemcen,48,I,0
+Sidi Abdelli,4,Tlemcen,48,I,0
+Sidi Djillali,5,Tlemcen,48,I,0
+Sidi Medjahed,6,Tlemcen,48,I,0
+Souahlia,7,Tlemcen,48,I,0
+Souani,8,Tlemcen,48,I,0
+Souk Thlata,9,Tlemcen,48,I,0
+Terni Beni Hediel,0,Tlemcen,48,I,0
+Tienet,1,Tlemcen,48,I,0
+Tlemcen,2,Tlemcen,48,I,0
+Zenata,3,Tlemcen,48,I,0
